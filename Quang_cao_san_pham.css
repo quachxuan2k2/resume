@@ -1,0 +1,75 @@
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+  } 
+  
+  .div{
+    margin: 8px;
+    background-color: aliceblue;
+    height: 100px;
+    width: 80px;
+  }
+  .gird{
+    background-color:white;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+  }
+  .gird-item{
+    padding-top: 22px;
+    padding-left: 22px;
+    background-color:white;
+    color:rgb(17, 136, 57);
+    margin: 2px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+  }
+  .gird-it{
+    padding-top: 22px;
+    padding-left: 22px;
+    background-color:white;
+    color:rgb(17, 136, 57);
+    margin: 2px;
+    
+  }
+  .item:hover{
+    color: rgb(1, 32, 12);
+  }
+  .bt{
+    background-color:rgb(31, 250, 104) ;
+    border: none;
+    color:floralwhite;
+    border-radius: 4px;
+    padding: 4px 8px;
+  }
+  .btt:hover{
+    color:rgb(3, 128, 55);
+  }
+  .text{
+     
+    position: absolute;
+    top: 20px;
+  }
+  .text1{
+    color:rgb(15, 155, 74)
+  }
+ 
+  .bg-white{
+    background-color:white;
+    color:white;
+  }
+  .bg-green{
+    background-color:rgb(212, 231, 219) ;
+    color:rgb(212, 231, 219);
+  }
+  .padding{
+    padding-left: 100px;
+    padding-top: 40px;
+
+  }
+  .margin{
+    margin-top: 35px;
+  }
+
+  
