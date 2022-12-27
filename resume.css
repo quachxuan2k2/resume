@@ -1,0 +1,155 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .container {
+    display: flex;
+    background-color: rgb(56, 48, 48);
+  }
+  
+  .text-while {
+    color: white;
+  }
+  .text-pink{
+    color: rgb(207, 7, 40);
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .user-info {
+    width: 22%;
+    margin-left: 170px;
+    background-color: rgb(207, 7, 40);
+    /* line-height: 1.5; */
+    /* margin: 3px; */
+    /* border: 3px solid purple; */
+  }
+  
+  .user-name{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: white;
+    color:rgb(207, 7, 40);
+    padding: 8px;
+  }
+  
+  .user-image{
+    margin: 12px;
+  }
+  /* .user-image:hover{
+    display: none;
+  } */
+  
+  .user-image-content{
+    width: 100%;
+  }
+  
+  .about-me{
+    margin: 15px;
+  }
+  .about-dream{
+    margin:10px;
+  }
+  .line{
+    line-height: 1.5;
+  }
+  .about-body{
+    margin-top: 8px;
+  }
+  
+  .info-link:hover{
+    color: blue;
+  }
+  .user-skill{
+    width: 50%;
+    color: rgb(207, 7, 40);
+    background-color: white;
+    
+  }
+  .user-slogan{
+    background-color: rgb(207, 7, 40);
+    text-align: center;
+    font-size: 18px;
+    padding:7px;
+  
+  }
+  .title{
+    font-size: 25px;
+    margin: 14px;
+    font-weight: bold;
+  
+  }
+  .title-exercise{
+    font-size: 25px;
+    padding-top: 40px;
+    margin: 14px;
+    font-weight: bold;
+  }
+  
+  @keyframes example {
+    from {background-color: pink;}
+    to {background-color:aquamarine;}
+  }
+  
+  .content{
+    font-size: 17px;
+    margin-left: 35px;
+    margin-right: 20px;
+    font-weight:bold;
+  }
+  
+  
+  
+  .box {
+  
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    padding:7px
+  }
+  
+  .c1 {
+    background-color: black;
+    width: 200px;
+    height: 15px;
+  
+  }
+  
+  .c2 {
+    background-color: rgb(207, 7, 40);
+    width: 100px;
+    height: 15px;
+  }
+  
+  .HTML1 {
+    background-color: black;
+    width: 280px;
+    height: 15px;
+  
+  }
+  
+  .HTML2 {
+    background-color: rgb(207, 7, 40);
+    width: 24px;
+    height: 15px;
+  }
+  
+  .CSS1 {
+    background-color: black;
+    width: 250px;
+    height: 15px;
+  
+  }
+  
+  .CSS2 {
+    background-color: rgb(207, 7, 40);
+    width: 55px;
+    height: 15px;
+  } 
+  
+  
